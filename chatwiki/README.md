@@ -1,4 +1,4 @@
-# ChatWiki-Lite: 基于 RAG 架构的轻量级知识库对话系统
+<img width="1792" height="1120" alt="截屏2026-04-15 00 57 59" src="https://github.com/user-attachments/assets/3b6a36f4-c984-4119-8797-2e1ce3b39a76" /># ChatWiki-Lite: 基于 RAG 架构的轻量级知识库对话系统
 
 这是一个基于检索增强生成（RAG）技术实现的本地知识库问答工具。
 
@@ -21,3 +21,8 @@
 2. 启动应用：
 ```Bash
   streamlit run app.py
+
+
+##运行预览
+![Uploading chatwiki- lite.png…]()
+
