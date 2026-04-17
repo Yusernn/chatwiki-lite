@@ -22,9 +22,6 @@
 ```Bash
   streamlit run app.py
 
-##运行预览
-<img width="1432" height="884" alt="chatwiki lite" src="https://github.com/user-attachments/assets/0dc9e256-566a-48f8-8ae6-92198de57ccd" />
-
 
 
 
