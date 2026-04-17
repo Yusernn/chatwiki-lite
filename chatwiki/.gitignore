@@ -1,0 +1,24 @@
+# --- Python 临时文件 ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# --- macOS 系统垃圾文件 ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Streamlit 缓存 ---
+.streamlit/
+
+# --- 模型缓存 (防止上传几百MB的模型数据) ---
+.cache/
+models/
+
+# --- 敏感信息 ---
+config.json
+*.log
