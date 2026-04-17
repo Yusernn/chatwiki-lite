@@ -22,9 +22,6 @@
 ```Bash
   streamlit run app.py
 
-## 运行效果
-![Uploading chatwiki-lite.png…]()
-
 
 
 
